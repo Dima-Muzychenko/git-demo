@@ -1,3 +1,2 @@
-new test
-aaa
+pull test
 git
